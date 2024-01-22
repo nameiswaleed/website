@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1",
+    "projectName": "FirstProject",
+    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "projectCollaborators": [
+      {
+        "email": "john@example.com"
+      }
+    ],
+    "projectImage": "https://picsum.photos/500"
+  },
+  {
+    "id": "2",
+    "projectName": "SecondProject",
+    "projectDescription": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "projectCollaborators": [
+      {
+        "email": "jane@example.com"
+      }
+    ],
+    "projectImage": "https://picsum.photos/500"
+  },
+  {
+    "id": "3",
+    "projectName": "ThirdProject",
+    "projectDescription": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "projectCollaborators": [
+      {
+        "email": "alice@example.com"
+      }
+    ],
+    "projectImage": "https://picsum.photos/500"
+  },
+  {
+    "id": "4",
+    "projectName": "FourthProject",
+    "projectDescription": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "projectCollaborators": [
+      {
+        "email": "bob@example.com"
+      }
+    ],
+    "projectImage": "https://picsum.photos/500"
+  },
+  {
+    "id": "5",
+    "projectName": "FifthProject",
+    "projectDescription": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "projectCollaborators": [
+      {
+        "email": "emily@example.com"
+      }
+    ],
+    "projectImage": "https://picsum.photos/500"
+  },
+  {
+    "id": "6",
+    "projectName": "SixthProject",
+    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "projectCollaborators": [
+      {
+        "email": "david@example.com"
+      }
+    ],
+    "projectImage": "https://picsum.photos/500"
+  },
+  {
+    "id": "7",
+    "projectName": "SeventhProject",
+    "projectDescription": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "projectCollaborators": [
+      {
+        "email": "olivia@example.com"
+      }
+    ],
+    "projectImage": "https://picsum.photos/500"
+  },
+  {
+    "id": "8",
+    "projectName": "EighthProject",
+    "projectDescription": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "projectCollaborators": [
+      {
+        "email": "michael@example.com"
+      }
+    ],
+    "projectImage": "https://picsum.photos/500"
+  },
+  {
+    "id": "9",
+    "projectName": "NinthProject",
+    "projectDescription": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "projectCollaborators": [
+      {
+        "email": "sophia@example.com"
+      }
+    ],
+    "projectImage": "https://picsum.photos/500"
+  },
+  {
+    "id": "10",
+    "projectName": "TenthProject",
+    "projectDescription": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "projectCollaborators": [
+      {
+        "email": "william@example.com"
+      }
+    ],
+    "projectImage": "https://picsum.photos/500"
+  }
+]
